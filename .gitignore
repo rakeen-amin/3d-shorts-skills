@@ -1,0 +1,14 @@
+node_modules/
+models
+lines/
+out/
+engine/stills/
+*.wav
+*.mp4
+*.jpg
+cues.json
+captions.ass
+beat_sheet.json
+voice_profile.json
+nudges.json
+__pycache__/
